@@ -5,7 +5,6 @@
 
 A comprehensive Python web application built with Streamlit that combines Machine Learning, Data Analysis, and File Conversion tools in one unified platform.
 
-![Omen Logo](image/omenLogo.png)
 
 ## Table of Contents
 - [Overview](#overview)
